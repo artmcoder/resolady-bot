@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: resolady-bot
+bot:
+  username: resoladybot
+  token: 7134122185:AAElsXVM72I_uT06yZlg_Be86kqk_lEx4IM
+logging:
+  file:
+    name: logs
+    path: /
